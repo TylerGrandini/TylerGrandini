@@ -30,12 +30,12 @@ These are some of the main technologies that I use and study daily:
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
+<img title="Eclipse" alt="Eclipse" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Github Desktop" alt="Github Desktop" width="40px" src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png">|<img title="Git" alt="Git" width="40px" src="https://i.pinimg.com/736x/01/e5/00/01e500fca29c045d432b64f285f9c229.jpg">|<img title="Insomnia" alt="Insomnia" width="40px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">|<img title="Intellij" alt="Intellij" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
+|--|--|--|--|--|--|
 <br>
 
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/tylergrandini/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
 |--|--|
