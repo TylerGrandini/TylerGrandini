@@ -10,7 +10,7 @@ These are some of the main technologies that I use and study daily:
 
 **Programming Languages**
 
-<img title="Java 8,11,17" alt="Java 8,11,17" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Angular 13" title="Angular 13" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
+<img title="Java 8,11,17" alt="Java 8,11,17" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Angular 13" title="Angular 13" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
 |--|--|--|
 
 **Libraries and Frameworks**
