@@ -22,7 +22,7 @@ These are some of the main technologies that I use and study daily:
 
 **Infrastructures**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|
+<img title="AWS" alt="AWS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">|
 |--|
 
 **Databases**
