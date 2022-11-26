@@ -5,7 +5,7 @@ I'm a **Backend Java Developer** working at [Fumec](http://www.fumec.br/). My da
 
 ## Skill Set :muscle:
 
-These are some of the major technologies that I use or have worked on in the past:
+These are some of the main technologies that I use and study daily:
 
 
 **Programming Languages**
