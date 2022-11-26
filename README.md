@@ -10,7 +10,7 @@ These are some of the main technologies that I use and study daily:
 
 **Programming Languages**
 
-<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="Spring" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|<img alt="JavaScript" title="Javascript" width="40px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="Spring" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|<img alt="Spring Boot" title="Spring Boot" width="40px" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|--|--|
 
 **Libraries and Frameworks**
