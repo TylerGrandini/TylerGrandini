@@ -35,7 +35,7 @@ These are some of the main technologies that I use and study daily:
 <br>
 
 
-## Let's Connect :handshake:
+## Let's Connect or buy me a coffee:handshake:
 
-<a href="https://www.linkedin.com/in/tylergrandini/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/tylergrandini/"><img title="I am excited to chat with you." alt="I am excited to chat with you." src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.buymeacoffee.com/tylergrandi"><img  title="Thanks for buying me a little coffee." alt="Thanks for buying me a little coffee." src="https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg" width="40"></a>
 |--|--|
