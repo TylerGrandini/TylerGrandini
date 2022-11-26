@@ -25,7 +25,7 @@ These are some of the main technologies that I use and study daily:
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
+<img title="Sql Developer(Oracle)" alt="Sql Developer(Oracle)" width="30px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/640px-Oracle_SQL_Developer_logo.svg.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/11978772/40430854-46e62868-5e63-11e8-9fac-920ee4ef5237.png">|<img title="Sql Server" alt="Sql Server" width="50px" src="https://img.icons8.com/color/480/microsoft-sql-server.png"> <br>
 |--|--|--|
 
 **Tools**
