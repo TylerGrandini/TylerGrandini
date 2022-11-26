@@ -18,7 +18,7 @@ These are some of the main technologies that I use and study daily:
 <img alt="Spring" title="Spring" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|<img alt="Spring Boot MVC" title="Spring Boot MVC" width="40px" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">|<img alt="REST API" title="REST API" width="40px" src="https://restfulapi.net/wp-content/uploads/rest.png">
 |--|--|--|
 
-**Infrastructure**
+**Infrastructures**
 
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|
 |--|
