@@ -10,7 +10,7 @@ These are some of the main technologies that I use and study daily:
 
 **Programming Languages**
 
-<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="Spring" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|<img alt="Spring Boot" title="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/springmvc/springmvc.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="Spring" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|<img alt="JavaScript" title="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|--|--|
 
 **Libraries and Frameworks**
