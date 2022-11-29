@@ -3,7 +3,7 @@
 
 I have been working professionally as a **backend developer for 1 year and 6 months**. I'm passionate about **Java** and prefer to work with it. I also have a degree in "Information Technology Management", and besides taking courses focused on Java and its universe, I'm doing a post-graduation in "Object Oriented Development in Java".  
 
-I am currently for a new job, **a new opportunity to continue to challenge myself**.
+I am currently looking for a new job, **a new opportunity to continue to challenge myself**.
 
 ## Skill Set :muscle:
 
